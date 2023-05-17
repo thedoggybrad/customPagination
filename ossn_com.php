@@ -2,6 +2,7 @@
 /**
  * Open Source Social Network
  *
+ * customized for use on Go Social!
  * @packageOpen Source Social Network
  * @author    Open Social Website Core Team <info@informatikon.com>
  * @copyright 2014 iNFORMATIKON TECHNOLOGIES
