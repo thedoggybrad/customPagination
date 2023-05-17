@@ -12,6 +12,6 @@ function custom_pagination_init(){
 	ossn_add_hook("pagination", "page_limit","set_new_page_limit");
 }
 function set_new_page_limit(){
-   return 20;
+   return 5;
 }
 ossn_register_callback('ossn', 'init', 'custom_pagination_init');
